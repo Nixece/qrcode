@@ -1,6 +1,6 @@
 streamlit
+qrcode
+pyzbar
 opencv-python-headless
 Pillow
-pandas
 numpy
-tensorflow
